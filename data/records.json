@@ -1,0 +1,47 @@
+[
+    {
+      "id": "kf7j3s9d8h4l2y6p",
+      "sender": "Cascadom",
+      "email": "cascadom@gmail.com",
+      "subject": "Dev Horror Stories: 👻 2000 lines of inline styles",
+      "body": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Soluta error beatae optio ea, quod harum. Iure ab sed, dolores eos repudiandae inventore magnam id modi blanditiis harum at. Facere, exercitationem.",
+      "date": "12:09 AM",
+      "read": true
+    },
+    {
+      "id": "xg2m5u1k9r8n4e7f",
+      "sender": "Mr. President",
+      "email": "mrpresident@example.com",
+      "subject": "Thanks for Saving the World",
+      "body": "Party at my crib next weekend, amet consectetur adipisicing elit. Soluta error beatae optio ea, quod harum. Iure ab sed, dolores eos repudiandae inventore magnam id modi blanditiis harum at. Facere, exercitationem.",
+      "date": "4:23 PM",
+      "read": false
+    },
+    {
+      "id": "ql1t6v5z9d2c8p7a",
+      "sender": "Spotify",
+      "email": "spotify@spotify.com",
+      "subject": "🎉 💰 New Job who this?",
+      "body": "Hello, Habib! We are glad to break the news to you, amet consectetur adipisicing elit. Soluta error beatae optio ea, quod harum. Iure ab sed, dolores eos repudiandae inventore magnam id modi blanditiis harum at. Facere, exercitationem.",
+      "date": "2:01 PM",
+      "read": true
+    },
+    {
+      "id": "hb4s9j3r6g1f5t2m",
+      "sender": "Jane Doe",
+      "email": "janedoe@gmail.com",
+      "subject": "Important Meeting Reminder",
+      "body": "Hi there, just wanted to remind you about our meeting tomorrow at 10am. Please let me know if you need to reschedule.",
+      "date": "9:45 AM",
+      "read": true
+    },
+    {
+      "id": "yc8l2k7n9t3h4r6e",
+      "sender": "Harold Jardines",
+      "email": "haroldjardines@gmail.com",
+      "subject": "Project Update",
+      "body": "Hey, just wanted to give you a quick update on the project. We're making good progress and should be able to meet our deadline.",
+      "date": "3:15 PM",
+      "read": false
+    }
+  ]
